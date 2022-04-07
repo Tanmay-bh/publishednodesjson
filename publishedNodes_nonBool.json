@@ -1,6 +1,6 @@
 [
   {
-    "EndpointUrl": "opc.tcp://10.22.179.4:49321",
+    "EndpointUrl": "opc.tcp://10.79.72.31:64121/GeCssOpcUaServer",
     "OpcNodes": [
       {
         "Id": "ns=2;s=G2.AAT",
