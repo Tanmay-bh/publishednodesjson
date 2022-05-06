@@ -4,1745 +4,1745 @@
     "OpcNodes": [
       {
         "Id": "ns=2;s=G2.AAT",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "134c0219-4f45-4499-bd50-bd873d78216a"
       },
       {
         "Id": "ns=2;s=G2.AATREFX",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "de43da7f-b911-490c-b367-a662e6cee494"
       },
       {
         "Id": "ns=2;s=G2.AATROUT",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "f395f5a5-f55e-4274-a173-822ae00206cb"
       },
       {
         "Id": "ns=2;s=G2.AFPAP",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "02aa2a40-fd5a-4a21-8112-02bfa9aa2e8e"
       },
       {
         "Id": "ns=2;s=G2.AFPAP1A",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "fbe79553-a42a-497a-a2ae-82375fef3d46"
       },
       {
         "Id": "ns=2;s=G2.AFPAP1B",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "0e78c38e-db5e-470e-bcb7-c8e16902d30d"
       },
       {
         "Id": "ns=2;s=G2.AFPAP1C",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "4eefb17a-9c5e-4fc2-a889-3f22c569e382"
       },
       {
         "Id": "ns=2;s=G2.AFPBD",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "78bb4336-5151-4d09-a8a4-13e420fc8d68"
       },
       {
         "Id": "ns=2;s=G2.AFPCS",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "43bcb339-4172-4fa8-a145-4a84550ac5c0"
       },
       {
         "Id": "ns=2;s=G2.AFPEP",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "e73f3d7a-2186-407c-9e3a-e133bd078e68"
       },
       {
         "Id": "ns=2;s=G2.AFQ",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "8c7e1c71-b249-4d25-8ada-1f2c6e2353ab"
       },
       {
         "Id": "ns=2;s=G2.AFQD",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "65a40a53-8114-464c-bbf9-3b8093aa4dbb"
       },
       {
         "Id": "ns=2;s=G2.ASROUT",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "fc823bfa-ee37-47c9-a311-0e471590e98e"
       },
       {
         "Id": "ns=2;s=G2.BB_MAX",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "9dac7add-5344-48b7-aba1-60df2b6955e3"
       },
       {
         "Id": "ns=2;s=G2.BB1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "32878ddb-64e0-4489-adbe-f0c3a789b1e0"
       },
       {
         "Id": "ns=2;s=G2.BB2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "20b8ec74-b1e3-49bf-ba7d-4810beca2286"
       },
       {
         "Id": "ns=2;s=G2.BB4",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "fd41bbff-019b-40ae-9007-727b01337853"
       },
       {
         "Id": "ns=2;s=G2.BB5",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "8f28ece6-4143-4c49-9029-370bab38eb86"
       },
       {
         "Id": "ns=2;s=G2.BB7",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "06f295fc-71a4-4066-86bd-198240f6cd55"
       },
       {
         "Id": "ns=2;s=G2.BB8",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "c8a8c8f0-181f-418f-9516-19a173066c04"
       },
       {
         "Id": "ns=2;s=G2.BB9",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "220fca90-0ca6-4203-958d-f4bb01188ffe"
       },
       {
         "Id": "ns=2;s=G2.BTGJ1_1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "c5ec4b8d-e298-43d0-b637-f896e5685025"
       },
       {
         "Id": "ns=2;s=G2.BTGJ1_2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "f77556cb-2006-4e85-b4f6-2d4b0b348a49"
       },
       {
         "Id": "ns=2;s=G2.BTGJ2_1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "e22d6a4e-5f40-42ae-8ec3-87bfacddadbb"
       },
       {
         "Id": "ns=2;s=G2.BTGJ2_2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "448f0194-ff47-4fb7-b0f3-8f72431c32dc"
       },
       {
         "Id": "ns=2;s=G2.BTJ1_1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "a35414e2-9c60-4fe5-a2cf-c08ce32a5f78"
       },
       {
         "Id": "ns=2;s=G2.BTJ1_2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "f8c50166-b9ce-4dc7-91fa-68d86cb049da"
       },
       {
         "Id": "ns=2;s=G2.BTJ2_1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "c1ba5d50-052d-44a2-911d-0a964b0d21d0"
       },
       {
         "Id": "ns=2;s=G2.BTJ2_2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "ae94e59d-9ccb-4a50-9a16-34fce1325982"
       },
       {
         "Id": "ns=2;s=G2.BTTA1_14",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "2d1460f8-5a21-4747-984c-952a73a5a241"
       },
       {
         "Id": "ns=2;s=G2.BTTA1_7",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "54e65e31-aa9b-4b8f-9f24-713395dd0150"
       },
       {
         "Id": "ns=2;s=G2.BTTI1_4",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "08f50c3a-d2a8-4a7a-865e-86af29689fd6"
       },
       {
         "Id": "ns=2;s=G2.BTTI1_8",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "83160a9f-dde1-4ca5-af3a-8c12f16ad08a"
       },
       {
         "Id": "ns=2;s=G2.CAGV",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "8d1ae42f-b886-4809-bbe3-5ec885f4a89f"
       },
       {
         "Id": "ns=2;s=G2.CMHUM",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "79f05487-0607-402b-b84d-9a5c0d791cca"
       },
       {
         "Id": "ns=2;s=G2.CPBH1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "e3a50bf6-68ee-4948-b35d-838c9ec4ce5d"
       },
       {
         "Id": "ns=2;s=G2.CPBH2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "321fa445-a7de-459d-9dbc-3b902ceeff73"
       },
       {
         "Id": "ns=2;s=G2.CPD",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "956c96a4-11c0-4d95-a1d9-ad13ecd485ea"
       },
       {
         "Id": "ns=2;s=G2.CPD1A",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "ca93681f-15c3-497a-940f-997a9babbdd6"
       },
       {
         "Id": "ns=2;s=G2.CPD1B",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "39be21d9-8e62-4fc3-bed0-1c138d3c727b"
       },
       {
         "Id": "ns=2;s=G2.CPD1C",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "a5ececf2-38ef-4beb-a32d-3fa7ed5e7902"
       },
       {
         "Id": "ns=2;s=G2.CPDABS",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "6b043a40-f16a-4e4b-9239-70d77b526df5"
       },
       {
         "Id": "ns=2;s=G2.CPR",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "5f150343-efdd-47a8-8314-439410782030"
       },
       {
         "Id": "ns=2;s=G2.CPRERR",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "0f3fd17a-aa1b-450e-ac4a-988becf80895"
       },
       {
         "Id": "ns=2;s=G2.CPRLIM",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "44185a54-31f9-48d1-93da-c6965ac16a2b"
       },
       {
         "Id": "ns=2;s=G2.CQBH",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "5f7106fc-229b-449a-bff3-607e7907842e"
       },
       {
         "Id": "ns=2;s=G2.CSBHX",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "e88206a3-5787-4b2f-ad94-02ecb6e1bd7f"
       },
       {
         "Id": "ns=2;s=G2.CSGV",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "d519922f-fd7a-4206-b184-770af864daef"
       },
       {
         "Id": "ns=2;s=G2.CSRGV",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "57c06418-83d8-4ea1-b3e8-a98cd0f6488d"
       },
       {
         "Id": "ns=2;s=G2.CSRIHOUT",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "02c6e893-0bb6-4e19-b58a-d8e19488ce52"
       },
       {
         "Id": "ns=2;s=G2.CTD",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "9fe85344-2711-446f-835b-29bf0eec7e5f"
       },
       {
         "Id": "ns=2;s=G2.CTDA1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "58556023-3dbb-4d50-9953-e45031a34f87"
       },
       {
         "Id": "ns=2;s=G2.CTDA2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "103c3859-25f2-48ca-b9ae-5304f367bc5e"
       },
       {
         "Id": "ns=2;s=G2.CTDA3",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "c363621b-dd9e-4357-924d-c9b358e4abc2"
       },
       {
         "Id": "ns=2;s=G2.CTIF1A",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "95ab75cf-7af7-4636-8974-4d4e637facd3"
       },
       {
         "Id": "ns=2;s=G2.CTIF1B",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "a8b95088-3ee3-4cdc-8d93-18c2a91edb89"
       },
       {
         "Id": "ns=2;s=G2.CTIF2A",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "17a63722-bd5e-4da0-b779-3593edb77415"
       },
       {
         "Id": "ns=2;s=G2.CTIM",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "4ae901bb-0f83-4525-bbde-1d3e5b678887"
       },
       {
         "Id": "ns=2;s=G2.DF",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "8d161b18-9fdb-4a5a-b3d4-fecc7c8ec5c9"
       },
       {
         "Id": "ns=2;s=G2.DLN_MODE",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "cbc2a859-21c1-4947-98c0-eb548cad97aa"
       },
       {
         "Id": "ns=2;s=G2.DPF",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "b8aadff9-cc4b-4fa1-8bf1-1eee512fdd0b"
       },
       {
         "Id": "ns=2;s=G2.DPFM",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "63afe5cd-ff7d-4f89-8ad2-b4c2a2c8e9fe"
       },
       {
         "Id": "ns=2;s=G2.DRVAR",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "e35438c8-d60e-4d3b-ba93-7f6455d61a32"
       },
       {
         "Id": "ns=2;s=G2.DTGAC23",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "dd54b96a-46c5-4b57-b9b6-1d97da4ae2e9"
       },
       {
         "Id": "ns=2;s=G2.DTGAH17",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "ec37aa85-9852-45b9-945f-e9d7db46798f"
       },
       {
         "Id": "ns=2;s=G2.DTGSA4",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "35b1614c-8920-4396-9322-fe183c09f4da"
       },
       {
         "Id": "ns=2;s=G2.DTGSA5",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "61d52e97-c93d-4ea7-ae4e-2d403cf9d7dc"
       },
       {
         "Id": "ns=2;s=G2.DTGSA6",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "a523beb6-adf3-44f3-b796-35a02e74fb61"
       },
       {
         "Id": "ns=2;s=G2.DTGSC7",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "6d04e2d7-bfc8-4228-8596-b423f2a35570"
       },
       {
         "Id": "ns=2;s=G2.DTGSC8",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "e9c69c25-2c50-4737-98ce-9ad973d9394b"
       },
       {
         "Id": "ns=2;s=G2.DTGSC9",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "90f7c9e5-a1ad-41e6-a5e4-24d052e25e10"
       },
       {
         "Id": "ns=2;s=G2.DTGSF1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "c1d54eff-07cb-4526-b2b9-4df8f8bd9e30"
       },
       {
         "Id": "ns=2;s=G2.DTGSF2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "98b4fd75-c897-4d58-9c4f-6c3018dc8671"
       },
       {
         "Id": "ns=2;s=G2.DTGSF3",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "84faa2c8-c192-42de-acaa-d5bd4fa4476b"
       },
       {
         "Id": "ns=2;s=G2.DTHYG",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "eeb3f59b-cda1-49a8-b6fd-2a05051fe09f"
       },
       {
         "Id": "ns=2;s=G2.DV",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "6ca7919e-b7c0-4d87-b42e-a2666d296d0e"
       },
       {
         "Id": "ns=2;s=G2.DVAR",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "5ea57d2c-d408-4f13-b857-4bd14a3a4e6d"
       },
       {
         "Id": "ns=2;s=G2.DVX",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "f5da5a75-4564-4ea5-95f3-6857e3cf693d"
       },
       {
         "Id": "ns=2;s=G2.DWATT",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "fd9937a5-0ef3-48f3-9ee9-503042e626b4"
       },
       {
         "Id": "ns=2;s=G2.DWATT1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "b4e1eee8-30f2-4078-a2bd-db0bd70ace8e"
       },
       {
         "Id": "ns=2;s=G2.DWATT2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "0065f9c7-0f6c-4193-a317-994cc873fc4e"
       },
       {
         "Id": "ns=2;s=G2.EX2K_FLD_A",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "8f9e575f-8a36-4c7b-9519-97e5fdf8844d"
       },
       {
         "Id": "ns=2;s=G2.EX2K_FLD_T",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "db99b2bc-c1b4-47e2-93ae-4a19f722af54"
       },
       {
         "Id": "ns=2;s=G2.EX2K_FLD_V",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "3a3cf7b9-386d-4ff5-a71a-72c5aa65b207"
       },
       {
         "Id": "ns=2;s=G2.EX2K_PHS_A",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "f0cbc178-5002-49e0-b1ba-3bc650c8ecb8"
       },
       {
         "Id": "ns=2;s=G2.EX2K_TRM_V",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "f9940eba-8cb1-4030-9079-f5df910626cc"
       },
       {
         "Id": "ns=2;s=G2.EXHMASS",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "cd092abc-53c5-4930-8c3d-94a7881888df"
       },
       {
         "Id": "ns=2;s=G2.FAGPM1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "2380a991-7476-4d1e-bc34-9bb12e79f276"
       },
       {
         "Id": "ns=2;s=G2.FAGPM2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "86e9b144-0752-4dc1-9337-031d19890619"
       },
       {
         "Id": "ns=2;s=G2.FAGPM3",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "6fcf3846-06ce-4381-a6a9-1f702e17d637"
       },
       {
         "Id": "ns=2;s=G2.FAGR",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "6ff194c3-b0f8-4e0c-9726-1e4bfb344c06"
       },
       {
         "Id": "ns=2;s=G2.FAL",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "db6d3182-3293-4719-be8f-132d72b3e3f4"
       },
       {
         "Id": "ns=2;s=G2.FD_INTENS_1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "22a5dc72-db84-4a0f-bb47-1ac841ac8fe4"
       },
       {
         "Id": "ns=2;s=G2.FD_INTENS_2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "269f3cac-7a4d-4576-9b21-2607b20a3595"
       },
       {
         "Id": "ns=2;s=G2.FD_INTENS_3",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "ba993182-949b-4d7c-b5cf-dad8d8c53612"
       },
       {
         "Id": "ns=2;s=G2.FD_INTENS_4",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "2a7add24-0871-41cd-88f5-cc4e0bad20c6"
       },
       {
         "Id": "ns=2;s=G2.FLAME",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "6a1e8b5d-a541-4fae-8d89-9a8813b1a54a"
       },
       {
         "Id": "ns=2;s=G2.FPG1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "ded27ce4-593b-4213-a60d-24b140fbe6c2"
       },
       {
         "Id": "ns=2;s=G2.FPG2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "d3410021-3dbd-4207-9016-7ce34509b158"
       },
       {
         "Id": "ns=2;s=G2.FPG2A",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "04128d3b-ba09-4025-8811-c710d65a1a2b"
       },
       {
         "Id": "ns=2;s=G2.FPG2B",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "1df07802-e34a-40fe-832b-98c46480ba90"
       },
       {
         "Id": "ns=2;s=G2.FPG2C",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "63c719ad-d300-4b58-9c5d-5d5b0155b88a"
       },
       {
         "Id": "ns=2;s=G2.FPGN01",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "32c2188e-e4e0-46e2-9c3c-47e08c3e5298"
       },
       {
         "Id": "ns=2;s=G2.FPGN02",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "4d8ace81-6d8d-451f-a121-8de018f0c998"
       },
       {
         "Id": "ns=2;s=G2.FPGN03",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "4f63c82f-53c5-4420-905d-d4d53e881dc0"
       },
       {
         "Id": "ns=2;s=G2.FPRG",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "3d30f549-69f7-4718-86ca-8080606bf5c3"
       },
       {
         "Id": "ns=2;s=G2.FQGUV",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "d9c0a6b2-288a-49f3-ab47-2cfb06a81a1e"
       },
       {
         "Id": "ns=2;s=G2.FQL1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "a9f40999-d969-4e3c-b23f-bcdc5be0aeee"
       },
       {
         "Id": "ns=2;s=G2.FQLM1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "cb27059c-eb37-4bd7-81e0-46f843f7d435"
       },
       {
         "Id": "ns=2;s=G2.FQROUT",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "345b6be4-626b-4058-8d78-7c6fad271ad8"
       },
       {
         "Id": "ns=2;s=G2.FRCROUT",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "7b2f0679-0c2b-4b3a-88c4-19629acff179"
       },
       {
         "Id": "ns=2;s=G2.FSGPM1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "e81e9a5c-c815-4df0-90d9-df4ccd72a92b"
       },
       {
         "Id": "ns=2;s=G2.FSGPM2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "5bd63ce4-4f5e-4f3f-87fe-078ce26dff34"
       },
       {
         "Id": "ns=2;s=G2.FSGPM3",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "7cedd3ae-122b-4df9-8e65-a656697c105a"
       },
       {
         "Id": "ns=2;s=G2.FSGQ",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "d3762092-77de-457c-9700-46dc1b424da7"
       },
       {
         "Id": "ns=2;s=G2.FSGR",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "5fdfd960-6bf7-409c-b599-5993f6681af5"
       },
       {
         "Id": "ns=2;s=G2.FSGR_ERR",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "c0d2e683-2725-4c69-8c46-7da417f197cf"
       },
       {
         "Id": "ns=2;s=G2.FSKSG",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "a90bfcef-7be8-4986-a3f6-b2f05bbe00cf"
       },
       {
         "Id": "ns=2;s=G2.FSR",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "1a36675d-1827-4205-99dd-23b15933aa60"
       },
       {
         "Id": "ns=2;s=G2.FSR_CONTROL",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "54afee01-363a-4dd1-9cc3-1b1e3fde5857"
       },
       {
         "Id": "ns=2;s=G2.FSR1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "317db2df-cd51-4d44-b2bd-ecab955eb72d"
       },
       {
         "Id": "ns=2;s=G2.FSR2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "680bcf00-4c1d-4b73-9b49-6ff36f0fb44d"
       },
       {
         "Id": "ns=2;s=G2.FSRACC",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "65c2a36d-c6d6-4234-a1f1-4fde3015ff22"
       },
       {
         "Id": "ns=2;s=G2.FSRG1OUT",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "13b231ce-9331-4bbb-af50-301ead305408"
       },
       {
         "Id": "ns=2;s=G2.FSRG2OUT",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "2eb4a23c-d291-4e0d-8112-85b14f4cdc9e"
       },
       {
         "Id": "ns=2;s=G2.FSRG3OUT",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "5455539a-6000-436d-8627-63fe93a92a4d"
       },
       {
         "Id": "ns=2;s=G2.FSRGQOUT",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "ebb973b3-b7dd-4ca4-b624-87306dbaec1f"
       },
       {
         "Id": "ns=2;s=G2.FSRMAN",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "4d988843-4833-4eba-8f82-bc65c27ee2bf"
       },
       {
         "Id": "ns=2;s=G2.FSRMAN_CMD",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "30498664-982d-4165-b002-1f04d203c78f"
       },
       {
         "Id": "ns=2;s=G2.FSRMAX",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "04838097-86d8-4def-95f3-2c17e5aca208"
       },
       {
         "Id": "ns=2;s=G2.FSRMIN",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "fe35fc2a-9b61-48f3-88c4-f1f9862fedde"
       },
       {
         "Id": "ns=2;s=G2.FSRN",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "0828ea44-e6be-4c4b-a9a7-bd903f9374b0"
       },
       {
         "Id": "ns=2;s=G2.FSRSD",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "122d6b45-ab25-4346-b92d-fb01d0aa906a"
       },
       {
         "Id": "ns=2;s=G2.FSRSU",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "d2bb4067-f523-4c19-9ff2-3f2d5e2235b4"
       },
       {
         "Id": "ns=2;s=G2.FSRT",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "5262b271-6ee1-4702-8144-6707e7cde6f9"
       },
       {
         "Id": "ns=2;s=G2.FTG",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "6c78f1ae-7251-40d3-a742-c49fea9150b2"
       },
       {
         "Id": "ns=2;s=G2.FTG1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "fdc27445-73ef-4f78-b289-ef6fdae63654"
       },
       {
         "Id": "ns=2;s=G2.FTG2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "d32f2e9e-c141-44a7-80f2-0d40dbb1ed0c"
       },
       {
         "Id": "ns=2;s=G2.FTG3",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "6a4f688d-889b-4dea-9015-833de0af1817"
       },
       {
         "Id": "ns=2;s=G2.H2FDP",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "e233ceba-4d3e-4933-a621-52dacf89de5b"
       },
       {
         "Id": "ns=2;s=G2.ITDP",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "bf438cd5-90cb-40bc-8012-b9623f7d9a35"
       },
       {
         "Id": "ns=2;s=G2.K",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "4f1796e8-ae5e-49bc-a679-133b1b5d5042"
       },
       {
         "Id": "ns=2;s=G2.L90PSEL",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "79741d43-27f4-4250-a27c-f6c6a59cd532"
       },
       {
         "Id": "ns=2;s=G2.LELHA9A",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "9afb2172-c915-42b1-ad3c-d49cddc5d3bd"
       },
       {
         "Id": "ns=2;s=G2.LELHA9B",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "ffca4bcf-5f03-4e95-a8cb-d99ba3dba158"
       },
       {
         "Id": "ns=2;s=G2.LELHA9C",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "b3ddc33f-f6de-4942-8357-e44f76fd9d81"
       },
       {
         "Id": "ns=2;s=G2.LELHGT7A",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "0ed89dd8-d9d0-450d-8863-d7c49952064f"
       },
       {
         "Id": "ns=2;s=G2.LELHGT7B",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "28019247-c554-4930-b8f6-1ec284860c22"
       },
       {
         "Id": "ns=2;s=G2.LELHGT7C",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "69b1254a-ce95-44d0-97ed-4d45b1f551f6"
       },
       {
         "Id": "ns=2;s=G2.LELHT5A",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "41eaa649-e7a1-4101-a4e8-348b0d150a3f"
       },
       {
         "Id": "ns=2;s=G2.LELHT5B",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "2694b045-add4-4dca-b566-52b93f888358"
       },
       {
         "Id": "ns=2;s=G2.LELHT5C",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "e9f17b18-dbd6-4fbb-987c-da4c78d30381"
       },
       {
         "Id": "ns=2;s=G2.LELHT6A",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "251844c2-a60e-4b3a-a274-8491fb67b45d"
       },
       {
         "Id": "ns=2;s=G2.LELHT6B",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "82623f3e-b3be-45fb-bb06-791cd7ab4f62"
       },
       {
         "Id": "ns=2;s=G2.LELHT6C",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "1f7abcdf-efb9-4da7-8680-722dc7938180"
       },
       {
         "Id": "ns=2;s=G2.LHV1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "1a6af83b-663e-430b-a836-54e482894a78"
       },
       {
         "Id": "ns=2;s=G2.LOTR",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "02e719b9-2a69-4e1c-830a-fc1ce568fb99"
       },
       {
         "Id": "ns=2;s=G2.LTB1D",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "0428a3ed-dbb2-4851-8eea-f9a1351d756c"
       },
       {
         "Id": "ns=2;s=G2.LTB2D",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "ce5a24b4-aced-45b9-a1ec-fe5a7d763193"
       },
       {
         "Id": "ns=2;s=G2.LTG1D",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "0f878afa-f66e-4661-9d89-f0ed603ebc5f"
       },
       {
         "Id": "ns=2;s=G2.LTG2D",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "af5c9dfc-eb36-4b4d-ad00-91be23ea175c"
       },
       {
         "Id": "ns=2;s=G2.LTH",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "ae9ec553-5cb8-4dc4-b5a3-bdf11a59b674"
       },
       {
         "Id": "ns=2;s=G2.LTOT3",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "c8fd470f-514e-4f46-8680-0b68bb15c37a"
       },
       {
         "Id": "ns=2;s=G2.LTOT4",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "c9c778fb-4333-4ffd-bc91-85ee0697de22"
       },
       {
         "Id": "ns=2;s=G2.LTTH1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "0021f8f8-4053-4393-861e-48e4d83348ca"
       },
       {
         "Id": "ns=2;s=G2.LTTH2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "f9d3f456-5d6d-4930-9d69-7177cbd635b9"
       },
       {
         "Id": "ns=2;s=G2.LTTH3",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "200c228d-6d96-464b-b135-7d2291bc2486"
       },
       {
         "Id": "ns=2;s=G2.SC43",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "2d78ee7c-d016-48cc-9bfb-5780390999d4"
       },
       {
         "Id": "ns=2;s=G2.SDAJ1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "c0cad419-2a92-4f06-b8f5-0e24f9dd4472"
       },
       {
         "Id": "ns=2;s=G2.SDAJ2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "d358afea-0848-4fef-8115-4b474e232e32"
       },
       {
         "Id": "ns=2;s=G2.SPAJ",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "07c4642e-1289-4b13-846a-d37fb1fbf05c"
       },
       {
         "Id": "ns=2;s=G2.SPEED_LVL",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "8e1d298d-9e64-4567-adf8-5727d7cc3780"
       },
       {
         "Id": "ns=2;s=G2.STAJ",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "18a2cbc2-6bff-4a47-b211-2e435f895cc0"
       },
       {
         "Id": "ns=2;s=G2.STATUS_FLD",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "baad63bf-f14b-4bf2-ba88-636bd02b6390"
       },
       {
         "Id": "ns=2;s=G2.SVL",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "1fef691f-f0dd-4a73-9583-bf6ffc2b9006"
       },
       {
         "Id": "ns=2;s=G2.SVLX",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "16018c4a-d675-4ae5-ab5b-0558b0ba8e8c"
       },
       {
         "Id": "ns=2;s=G2.SYS_FREQ",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "9fb369f2-226b-4276-ab06-b2d37399fd59"
       },
       {
         "Id": "ns=2;s=G2.T62CD",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "8b255e22-17b1-4c37-9154-51d01dece2b8"
       },
       {
         "Id": "ns=2;s=G2.TCES",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "a79fcf41-014f-4e55-ab02-1e419261c071"
       },
       {
         "Id": "ns=2;s=G2.TCFLS",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "7b220789-6b05-4fe4-ba50-cbdc8523b6d6"
       },
       {
         "Id": "ns=2;s=G2.TCFS",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "d3b91f0e-42b3-4d55-9aa4-19a1baa01c5a"
       },
       {
         "Id": "ns=2;s=G2.TCMIS",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "1d27de93-2531-4892-8fb5-ba6155e6da7b"
       },
       {
         "Id": "ns=2;s=G2.TCTS",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "3c7e7e86-c121-4e6d-98ac-e8a1b658a9c4"
       },
       {
         "Id": "ns=2;s=G2.TEMP_AMB_REF",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "90fe6381-9fa1-4a25-a73f-780caf67d354"
       },
       {
         "Id": "ns=2;s=G2.TFT_G",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "10447322-0166-4516-8ced-fffd26b8575d"
       },
       {
         "Id": "ns=2;s=G2.TFT_L",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "a475dd72-d1dd-4505-86d4-804f17fecb46"
       },
       {
         "Id": "ns=2;s=G2.TFT_T",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "b6530ace-0e28-41fa-88a9-b5dc1dffa5db"
       },
       {
         "Id": "ns=2;s=G2.TGGHAVG",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "f851de41-fc6d-48bd-a860-d36e5af380f0"
       },
       {
         "Id": "ns=2;s=G2.TNH",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "3539715b-836f-4eea-bf42-5ff32839be5f"
       },
       {
         "Id": "ns=2;s=G2.TNH_OS_V",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "efe3f4f6-d4ee-41f4-afdd-0445a1de28c7"
       },
       {
         "Id": "ns=2;s=G2.TNH_V",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "edd9f187-22f3-4419-9a9e-678765ced2ea"
       },
       {
         "Id": "ns=2;s=G2.TNHA",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "e88c8a5e-0bb1-4e99-87be-607d17fa95e6"
       },
       {
         "Id": "ns=2;s=G2.TNHA_RPM",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "56c93983-d1f9-4b83-bf0f-d35878bd7a94"
       },
       {
         "Id": "ns=2;s=G2.TNHCOR",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "d89c30dd-ab30-4b77-a9d6-b52b3d3b86b0"
       },
       {
         "Id": "ns=2;s=G2.TNR",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "cdbf9c17-6605-46dd-9c8b-4ce09f896a78"
       },
       {
         "Id": "ns=2;s=G2.TOT_IBH",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "c240c3c9-584a-47a8-883c-66186b469ad2"
       },
       {
         "Id": "ns=2;s=G2.TTIB",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "e911ff84-27b7-4f92-8da2-6c36d6b05fb5"
       },
       {
         "Id": "ns=2;s=G2.TTIB1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "f9872262-f7fa-4cde-abaf-590db131b336"
       },
       {
         "Id": "ns=2;s=G2.TTIB2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "6bb45eb4-9e15-43ae-8314-9c1f256bce15"
       },
       {
         "Id": "ns=2;s=G2.TTIB3",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "c767a713-67fd-4b6f-8d77-98351a38b44f"
       },
       {
         "Id": "ns=2;s=G2.TTRF1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "d3dc6352-e306-483c-a6ff-59580764da9d"
       },
       {
         "Id": "ns=2;s=G2.TTRX",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "f7c911c3-8ccd-4bc3-a9f1-db2cc6310e06"
       },
       {
         "Id": "ns=2;s=G2.TTRXB",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "4bf60bd7-4da4-422f-8f2a-80580cebdbab"
       },
       {
         "Id": "ns=2;s=G2.TTRXGV",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "b6dcd913-e376-45db-bd6d-3741bcd7da5d"
       },
       {
         "Id": "ns=2;s=G2.TTRXP",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "6c2fdd52-9c94-47ec-b194-5b1f182a5d64"
       },
       {
         "Id": "ns=2;s=G2.TTRXS",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "02412de3-44bc-467b-95ef-0f4dc9fd1f11"
       },
       {
         "Id": "ns=2;s=G2.TTWS1AO1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "638e2ba9-7686-46e0-aa19-e4d49aa7003c"
       },
       {
         "Id": "ns=2;s=G2.TTWS1AO2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "d77c0383-a48b-408a-98ff-2ee20ecc13e3"
       },
       {
         "Id": "ns=2;s=G2.TTWS1FI1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "4cf224d9-2eb2-4df7-ba8f-21bad1665724"
       },
       {
         "Id": "ns=2;s=G2.TTWS1FI2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "eea2b467-f840-45ca-83be-8e2854d3e23a"
       },
       {
         "Id": "ns=2;s=G2.TTWS2AO1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "1b1837f6-3862-4bba-8e68-1900d9f2cc26"
       },
       {
         "Id": "ns=2;s=G2.TTWS2AO2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "8335ef02-cc66-4ab5-94ef-5aafc1cb2043"
       },
       {
         "Id": "ns=2;s=G2.TTWS2FO1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "16abbfee-1160-4c14-97b3-39baf6292077"
       },
       {
         "Id": "ns=2;s=G2.TTWS2FO2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "38950b07-54eb-423f-b4cf-76465da02e9b"
       },
       {
         "Id": "ns=2;s=G2.TTWS3AO1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "2c0e26b4-908e-4c72-98fc-0e302f2111a5"
       },
       {
         "Id": "ns=2;s=G2.TTWS3AO2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "81e97dee-3885-4808-9763-2e495bcb4341"
       },
       {
         "Id": "ns=2;s=G2.TTWS3FO1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "141c82f9-414f-4562-9d55-bea1a3dc43df"
       },
       {
         "Id": "ns=2;s=G2.TTWS3FO2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "78e38049-7e8a-483a-a31b-d786a2d1ca60"
       },
       {
         "Id": "ns=2;s=G2.TTXD_1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "0f019671-bd3d-4fba-a987-04fdd58e605d"
       },
       {
         "Id": "ns=2;s=G2.TTXD_10",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "0d03264d-9af0-428c-a075-69f21b8dc46a"
       },
       {
         "Id": "ns=2;s=G2.TTXD_11",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "6135db22-5553-4a4f-9d59-8dbea8c65e95"
       },
       {
         "Id": "ns=2;s=G2.TTXD_12",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "3e4e1a07-c16c-40a8-beb5-7e93f41fadbe"
       },
       {
         "Id": "ns=2;s=G2.TTXD_13",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "f085651a-cd18-4cc3-a353-f3a439cbf3cd"
       },
       {
         "Id": "ns=2;s=G2.TTXD_14",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "26534736-1501-4ecc-a501-a201e743512c"
       },
       {
         "Id": "ns=2;s=G2.TTXD_15",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "2abd4250-3e62-4365-99f0-8f7967861ba2"
       },
       {
         "Id": "ns=2;s=G2.TTXD_16",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "c26c1c2d-d1a5-4963-a120-8571a5f5057b"
       },
       {
         "Id": "ns=2;s=G2.TTXD_17",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "f69f5f2b-019d-4059-96e9-7994bcad2174"
       },
       {
         "Id": "ns=2;s=G2.TTXD_18",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "d1865311-977f-4e3b-bb3d-e9b774a80840"
       },
       {
         "Id": "ns=2;s=G2.TTXD_2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "2c975db0-69e8-4abc-8765-ce81daf72a18"
       },
       {
         "Id": "ns=2;s=G2.TTXD_3",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "85efbbef-2ec9-491d-886c-cd36b1329acf"
       },
       {
         "Id": "ns=2;s=G2.TTXD_4",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "d35db801-9668-49d6-9886-069ac0a7e874"
       },
       {
         "Id": "ns=2;s=G2.TTXD_5",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "0853b0c9-cd2f-451a-a772-cb9897150afc"
       },
       {
         "Id": "ns=2;s=G2.TTXD_6",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "c587714b-40ac-4de5-897a-47fd94fce58a"
       },
       {
         "Id": "ns=2;s=G2.TTXD_7",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "bfec6871-d755-48d4-b872-94659010464b"
       },
       {
         "Id": "ns=2;s=G2.TTXD_8",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "11b7cb52-25e8-4f60-b362-f36d8b7ece83"
       },
       {
         "Id": "ns=2;s=G2.TTXD_9",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "3e69ecc3-1d65-43ee-a0a8-69708ca28899"
       },
       {
         "Id": "ns=2;s=G2.TTXM",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "96e05cab-a1b5-4719-895c-2b721499e026"
       },
       {
         "Id": "ns=2;s=G2.TTXSP1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "e440f47e-abbd-49ec-965f-382867dbd4ad"
       },
       {
         "Id": "ns=2;s=G2.TTXSP2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "dacca5f2-736d-46d0-84c6-ebd892d6458d"
       },
       {
         "Id": "ns=2;s=G2.TTXSP3",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "221f5e98-2adf-4e1d-a32c-23f31ad9978e"
       },
       {
         "Id": "ns=2;s=G2.TTXSPL",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "99b87013-d84e-4f7e-b815-1d79fd33a448"
       },
       {
         "Id": "ns=2;s=G2.TTXSPLB",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "efb05e67-7d3b-4f6a-ae45-ae2efd024508"
       },
       {
         "Id": "ns=2;s=G2.VFGW",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "3c4c94d0-0e74-409e-901a-980cb0184032"
       },
       {
         "Id": "ns=2;s=G2.WQ",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "2c3747ca-3e28-4885-89fe-1e9c09609cf4"
       },
       {
         "Id": "ns=2;s=G2.WQDP",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "ff157f2e-c6ac-4563-b9ef-29d772341995"
       },
       {
         "Id": "ns=2;s=G2.WQF1",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "fca96894-d238-4bad-9222-7b8b8eddd398"
       },
       {
         "Id": "ns=2;s=G2.WQF3",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "5cd79cb4-a3b0-4b5f-b0a9-050ad55516ad"
       },
       {
         "Id": "ns=2;s=G2.WQJA",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "3030bbe5-66c1-44e3-877d-399ccce7d345"
       },
       {
         "Id": "ns=2;s=G2.WQR2",
-        "OpcPublishingInterval": 10000,
+        "OpcPublishingInterval": 1000,
         "OpcSamplingInterval": 1000,
-        "QueueSize": 15,
+        "QueueSize": 1,
         "DisplayName": "ac7ebe3b-efa8-408c-a857-ea294efbb712"
       }
     ]
