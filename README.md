@@ -1,2 +1,2 @@
 # publishednodesjson
-This repository contains publishednodes json files for async module 
+This repository contains all the  publishednodes json files for both sandbox and non-prod
